@@ -1,0 +1,4 @@
+Hi, I'm Pierre-Louis and this is my portfolio.
+I have multiple projects I am working on and some finished projects.
+The main ones and most interesting ones are in this portfolio: the OilRig, RogueLike, Insanity, Tavern Cards and AsciiDungeon.
+I would recommand the AsciiDungeon, TavernCards and RogueLike since those are finished games.

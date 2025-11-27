@@ -1,0 +1,8 @@
+TavernCards is a game inspired by a viking dice game called Orlog and the game Inscryption.
+You will play a card game (you pick cards, choose the ones you want, discard, look at what your oponent has and then pick again, three times in total, then the damages and gold will be assigned accordingly, you will find out that the npc around you say things, and those things change the more you play (the npc are linked to the cards, theres the knight which is obviously the knight card, the barman, the warrior, the mage ect) they will give you hints about what the game is about.
+You can use them to your advantage, pay the bard to distract your oponent (he skips a turn) pay a mercenary to hit the oponent (he loses hp).
+If you get enough complicity with the npc you can find they cards in the tavern (click on certain objects to get the cards).
+There is a way to trigger the boss phase (dramatic red lighting on the scene, change in music, the oponent stops you from picking cards, thats when its Handy to know where the cards are hidden by the npcs).
+
+This game was a personal project that I really enjoyedworking on.
+The latest build is possible to download in the parent folder of this document.

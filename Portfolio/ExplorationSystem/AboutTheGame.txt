@@ -1,0 +1,4 @@
+This is just a little exploration system with fog of war for hexagonal map, could be used for game projects.
+
+This is a personal project.
+You can download the latest build in the parent folder of this document.

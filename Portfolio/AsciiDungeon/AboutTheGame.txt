@@ -1,0 +1,5 @@
+AsciiDungon is an Ascii game playable in the console. Basic movement system, inventory, crafting system and turn based combat system inspired by Pokemon style.
+Explore, fight ennemies, take their loot, get better weapons, craft and enjoy the game.
+
+This is a personal project made with C language in a linux environment.
+You can download the WINDOWS version in the parent folder of this document, IOS build also exist of needed (the Windows one will run but the display wont be as pretty since the clearing of the console works differently).

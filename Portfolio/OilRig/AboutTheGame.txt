@@ -1,0 +1,13 @@
+OilRig (temporary name) is a game where the player is a character in an oil rig, every time the game starts, a lot of NPC are generated, they each have complex Identity (name, first name, profession, traits like loyalty to the rig, if they are sneaky,and lots of thers, they also have injuries,hunger, tiredness).
+The platform has multiple buildings with workers associated to (cooks and chief in the Kitchen, engineers in the generator room ect) all the NPC have shifts and activities they have to do, and activities they can chose to do like sleeping and eating.
+
+In the future, each NPC will be assigned a secret organisation or just a neutral role (basic worker), each organisation has a goal (competitor companies want the oil rig to fail, cultists want to sacrifice people, murders just like to kill, smugglers steal merchandise, ect).
+The player wwill be assigned a new job every game with different tasks to do, a new organisation too (possibly shady activities)
+The main goal will be to survive as long as possible (not being killed, framed, not dying of hunger etc) or to accomplish the player's organisation objective.
+
+
+About the game state right now, I have focused entirely on the coding aspect, the visual side is basic cubes and buttons, empty sprites.
+Once all the functionalities are implemented I will replace the models and images with real art (visual idea would be inspired by Dredge and Arcane styled drawings)
+
+This game is the personal project I am currently working on.
+You can download the latest executable of the game in the parent folder of this document.

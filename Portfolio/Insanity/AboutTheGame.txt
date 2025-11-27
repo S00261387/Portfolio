@@ -1,0 +1,13 @@
+Insanity (name may change) is a horror/dungeon exploration game, the map uses complex procedural generation imagined by me and ispired by data structures like trees and graphs. I would be happy to discuss it if anyone is interested in the procedral generation.
+Basic idea: The player spawns in a dungeon with no information of what he is doing here and what is going on. As he explores the dungeon he will come across enemies that will chase them. The player sanity starts at 0 when starting a game and then varies along the game (being in dark areas makes the sanity go down, being chased ect). 
+When the player finds the escape door he is teleported to a new floor (also procedural generation) but this time the models will be changed according to the player sanity.
+As the game goes and the player manages to get better sanity, the map transforms into a mental asylum, the player was not in a dungeon, he is just crazy and when going back to his senses he realizes where he is.
+The Walls, lights, décorations, ennemies will change (zombies ->doctors, torches ->hospital lights, stone Walls -> hospital tiled wales ect).
+A certain amount of sanity will be necessary to finish the game (when going to the escape door if sanity is enough we end instead of going to a new floor).
+
+In the future, we will spawn objects in the floors to help increase overall sanity by showing memories to the player, it could give new abilities (dash, throwing an object to distract enemies, placing a light on the floor, ect)
+
+This is an academic project in a team of 4 we are currently working on.
+Link to the videos of the project: https://atlantictu-my.sharepoint.com/:f:/g/personal/s00261387_atu_ie1/IgDHecRbj3J5ToUSYINGBTd6Ae3Umps1ukZN1GGrvG0R33Q?e=r4F2AH
+
+You can download the latest built version of the game in the parent folder of this document.
