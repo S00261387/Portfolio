@@ -1,0 +1,10 @@
+Hi, I'm Pierre-Louis and this is my portfolio.
+I have multiple projects I am working on and some finished projects.
+The main ones and most interesting ones are in this portfolio: the OilRig, RogueLike, Insanity, Tavern Cards and AsciiDungeon.
+I would recommand the AsciiDungeon, TavernCards and RogueLike since those are the most complete games.
+
+
+Check also this website: https://pathmaker-ygreg.netlify.app/
+
+This is the website of a multiplayer game I made with friends for my engineering school in 2021. You can find more information and download the game on the website (it is written in french).
+To summarize, it is a capture the flag game (with special fight system, you shoot very slow bullets and then you can accelerate them when you want), you can create lobby or join your friends game, or play in public games.

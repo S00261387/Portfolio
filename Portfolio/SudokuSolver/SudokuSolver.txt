@@ -1,0 +1,6 @@
+Here is a link to a video of a team project I made in my engineering school:
+https://atlantictu-my.sharepoint.com/:v:/g/personal/s00261387_atu_ie1/IQDncGLxAQG4T6MZrUgxRRVmARLtCoWJG4F5k_p00P1wu6E?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xhXRfO
+
+I have not been able to access the whole project anymore as it was stored on my past schools local servers and only accessible from the school's computers.
+Basically it was divided in multiple tasks, applying black and white fiters on the image, recognizing the lines of a sudoku, flipping the image if it was not vertical, getting eac square of the grid, checking all the squares with AI and once all the numbers are identified we solve the sudoku and give back an image of the solved grid.
+I was in charge of creating the neural network to recognize the numbers.

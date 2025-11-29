@@ -1,0 +1,2 @@
+I do not have access to the projects I made in my previous engineering school, but to give a general idea it was mostly C projects and most of them were about re-creating built-in functions of computers such as parsers, calculators (including the use of unctions like sin(), power() ect), a memory paging system.
+Everything was made using Linux.
