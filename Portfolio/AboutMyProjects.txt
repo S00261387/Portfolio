@@ -8,3 +8,5 @@ Check also this website: https://pathmaker-ygreg.netlify.app/
 
 This is the website of a multiplayer game I made with friends for my engineering school in 2021. You can find more information and download the game on the website (it is written in french).
 To summarize, it is a capture the flag game (with special fight system, you shoot very slow bullets and then you can accelerate them when you want), you can create lobby or join your friends game, or play in public games.
+
+Having worked on personal projects, projects in EPITA and projects in ATU, there is only a few on my ATU GitHub, most of my games are on my computer, if you want to look deeper into one I would happily demonstrate it.
